@@ -1,2 +1,2 @@
-# Html_CV_Page
+# Html-CV-Page
 [Project URL](https://roadmap.sh/projects/single-page-cv)
